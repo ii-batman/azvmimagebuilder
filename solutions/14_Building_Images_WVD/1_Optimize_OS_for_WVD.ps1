@@ -1,3 +1,4 @@
+ Set-ExecutionPolicy -ExecutionPolicy Bypass -Force -Verbose
  # OS Optimizations for WVD
  write-host 'AIB Customization: OS Optimizations for WVD'
  $appName = 'optimize'
